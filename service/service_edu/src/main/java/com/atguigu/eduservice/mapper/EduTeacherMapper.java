@@ -2,6 +2,7 @@ package com.atguigu.eduservice.mapper;
 
 import com.atguigu.eduservice.entity.EduTeacher;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import org.springframework.stereotype.Service;
 
 /**
  * <p>
@@ -11,6 +12,7 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
  * @author testjava
  * @since 2020-02-24
  */
+@Service
 public interface EduTeacherMapper extends BaseMapper<EduTeacher> {
 
 }
