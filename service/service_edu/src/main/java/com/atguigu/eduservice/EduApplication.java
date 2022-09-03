@@ -11,4 +11,5 @@ public class EduApplication {
     public static void main(String[] args) {
         SpringApplication.run(EduApplication.class, args);
     }
+//制造冲突 gitmerge练习
 }
