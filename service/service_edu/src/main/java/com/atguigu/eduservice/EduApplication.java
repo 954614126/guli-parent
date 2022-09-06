@@ -12,6 +12,6 @@ public class EduApplication {
         SpringApplication.run(EduApplication.class, args);
     }
 //嗯哼
-
+///测试重新修改带
 //制造冲突 gitmerge练习
 }
