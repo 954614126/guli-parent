@@ -13,4 +13,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  */
 public interface EduTeacherService extends IService<EduTeacher> {
 
+//制造冲突,git merge练习
+//嗯哼
+//制造冲突试试
 }
